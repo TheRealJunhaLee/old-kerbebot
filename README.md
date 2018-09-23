@@ -1,2 +1,2 @@
-# old-kerbebot
-ancient bad kerbebot no one likes it
+# kerbebot
+Kerbe bot is the amazing discord bot that will reign supreme.
